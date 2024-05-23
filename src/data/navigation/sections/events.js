@@ -40,6 +40,10 @@ module.exports = [
     path: "/events/api.md",
   },
   {
+    title: "Consuming events",
+    path: "/events/consuming-events.md",
+  },
+  {
     title: "Troubleshooting",
     path: "/events/troubleshooting.md",
   },
